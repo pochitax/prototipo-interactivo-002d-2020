@@ -95,3 +95,9 @@
 .tecuido {
     background-color: rgba(205, 183, 106, .5) !important;
 }
+.my-pets img.w-75, .blackberry img.w-75, .yo-voy img.w-75, .motiv-day img.w-75, .bg-black img.w-75, .ropa-app img.w-75, .pokedex img.w-75, .tecuido img.w-75  {
+  transition: transform .2s;
+}
+.my-pets img.w-75:hover, .blackberry img.w-75:hover, .yo-voy img.w-75:hover, .motiv-day img.w-75:hover, .bg-black img.w-75:hover, .ropa-app img.w-75:hover, .pokedex img.w-75:hover, .tecuido img.w-75:hover {
+  transform: scale(1.3);
+}
