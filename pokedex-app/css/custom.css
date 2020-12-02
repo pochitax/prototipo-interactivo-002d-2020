@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'Flexo-CapsDEMO';
+    src: url('../fuentes/Flexo-CapsDEMO-webfont.woff2') format('woff2'),
+         url('../fuentes/Flexo-CapsDEMO-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;}
+
+h1, h2, h3, h4, h5, strong {
+        font-family: 'Flexo-CapsDEMO';
+    }
+
+li {
+    font-family: 'Exo 2';
+    font-weight: bold;
+}
+
+p {
+    font-size: 15px;
+    font-family: 'Exo 2', sans-serif;
+}
