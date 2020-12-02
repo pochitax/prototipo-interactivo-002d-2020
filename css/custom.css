@@ -70,3 +70,28 @@
   }
   
   .overflow-hidden { overflow: hidden; }
+
+.my-pets {
+    background-color: #f2766b!important;
+}
+.blackberry {
+    background-color: #cff2fb !important;
+}
+.yo-voy {
+    background-color: #2ad4aa !important;
+}
+.motiv-day {
+    background-color: #7175e0 !important;
+}
+.bg-black {
+    background-color: #000 !important;
+}
+.ropa-app {
+    background-color: rgba(233, 69, 96, .2) !important;
+}
+.pokedex {
+    background-color: #57d4f5 !important;
+}
+.tecuido {
+    background-color: rgba(205, 183, 106, .5) !important;
+}
