@@ -124,6 +124,9 @@
 .bg-fucsia {
   background-color: #e30052 !important;
 }
+.bg-green {
+  background-color: rgba(189, 198, 1, 1)!important;
+}
 .btn-dark {
   background-color: #e30052 !important;
   border-color: #e30052;
